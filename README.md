@@ -1,8 +1,8 @@
-CaMaRu Timesheet Web Application
+## CaMaRu Timesheet Web Application
 A website for employees of a fictional travel agency to create and submit timesheets for review by employers. After creating a timesheet you have the option to send it in to be approved or you can keep it in the edit stage to make more changes. Once submitted, it is put into a queue for employers to review and accept/reject. You will get email notifications through this process. It is recommended to try this website as an admin as you have access to more features in the website.
 
 Website link
-https://young-reef-73086.herokuapp.com/
+[https://young-reef-73086.herokuapp.com/](https://young-reef-73086.herokuapp.com/login)
 Default employee(user) login: user/user
 Default employer(admin) login: super/super
 Feel free to register your own account as well
